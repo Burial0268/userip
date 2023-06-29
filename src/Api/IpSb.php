@@ -10,7 +10,6 @@
 
 namespace GBCLStudio\GeoIp\Api;
 
-use Flarum\Locale\Translator;
 use GBCLStudio\GeoIp\ServiceResponse;
 use GuzzleHttp\Client;
 use GuzzleHttp\Exception\GuzzleException;
